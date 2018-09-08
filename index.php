@@ -92,9 +92,12 @@
             <h1 class="section-heading white-text mb-4">About</h1>
              
             <hr class="light my-4">
-            <p class="white-text mb-4"><strong>IEEE Student Branch, DA-IICT</strong> aims to provide an interactive platform for students to develop professional and technical abilities.The Women In Engineering (WIE) affinity group of IEEE SB DAIICT is organizing <strong>' Tic-Tech-Toe 2018 '</strong> wherein you will be making an innovative applications in the given time frame.We welcome and encourage any kind of innovative applications that can have high utility or impact value.</p>
-            <p class="white-text mb-4">Hacking is building things that you always wanted to have but no one has built it yet. It's to come up with an amazing idea and work tirelessly on it. It is to fail, fail again and fail better. Try out new things and learn while doing that. It's to work together, collaborate and build things that are innovative. </p>
-            <p class="white-text mb-12" style="border: 8px solid;"><strong>DATES : </strong><strong>5th to 7th October </strong></p><p class="white-text mb-4" style="border: 8px solid;"> <strong>VENUE : LT-3, DA-IICT</strong></p><p class="white-text mb-4">Compete and build the best to win <strong>tons of great prizes!</strong></p>
+		  <p class="white-text mb-4">
+
+			 The Women in Engineering Affinity Group of <strong>IEEE Student Branch of DA-IICT</strong>
+			 along with Women in Entrepreneurship of DA-IICT <strong>Centre of Entrepreneurship and Incubation (DCEI)</strong> have a mission to inspire and empower all the budding
+			 engineers, especially the women techmakers. With this vision, we are proud to present to you our annual national hackathon, Tic-Tech-Toe’18.</p>
+                      <p class="white-text mb-12" style="border: 8px solid;"><strong>DATES : </strong><strong>5th to 7th October </strong></p><p class="white-text mb-4" style="border: 8px solid;"> <strong>VENUE : LT-3, DA-IICT</strong></p><p class="white-text mb-4">Compete and build the best to win <strong>tons of great prizes!</strong></p>
             <button class="btn btn-xl js-scroll-trigger" onclick="signup()" type="button">Register</button>
           </div>
         </div>
