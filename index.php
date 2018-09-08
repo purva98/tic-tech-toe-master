@@ -95,7 +95,7 @@
 		  <p class="white-text mb-4">
 
 			 The Women in Engineering Affinity Group of <strong>IEEE Student Branch of DA-IICT</strong>
-			 along with Women in Entrepreneurship of DA-IICT <strong>Centre of Entrepreneurship and Incubation (DCEI)</strong> have a mission to inspire and empower all the budding
+			 along with Women in Entrepreneurship <strong>Centre of Entrepreneurship and Incubation (DCEI)</strong> have a mission to inspire and empower all the budding
 			 engineers, especially the women techmakers. With this vision, we are proud to present to you our annual national hackathon, Tic-Tech-Toe’18.</p>
                       <p class="white-text mb-12" style="border: 8px solid;"><strong>DATES : </strong><strong>5th to 7th October </strong></p><p class="white-text mb-4" style="border: 8px solid;"> <strong>VENUE : LT-3, DA-IICT</strong></p><p class="white-text mb-4">Compete and build the best to win <strong>tons of great prizes!</strong></p>
             <button class="btn btn-xl js-scroll-trigger" onclick="signup()" type="button">Register</button>
