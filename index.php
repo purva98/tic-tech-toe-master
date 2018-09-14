@@ -25,7 +25,7 @@
 	
 	<script>
 		function signup(){
-			window.location = "https://goo.gl/forms/rh0gnRnP4p6XHHhj2";
+			window.location = "https://goo.gl/forms/XMmNKvnx8lF0CZzu1";
 		}
 		
 	</script>
